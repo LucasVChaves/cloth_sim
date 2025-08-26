@@ -2,7 +2,7 @@
 
 A simple, interactive 2D cloth simulator built in Rust using the macroquad library. This project implements a mass-spring model to simulate cloth physics in real-time, allowing for interactive tearing, cutting, and parameter adjustments.
 
-![Gif of the cloth simulator in action](./media/cloth_simulation.gif)
+<img src="./media/cloth_sim.gif" alt="Cloth Simulation Demo" width="600"/>
 
 ## Features
 
@@ -61,6 +61,6 @@ cargo run --release
 
 ## TODO
 
-[ ] Implement wind forces.
-[ ] Fix wobbly behaviour.
-[ ] Run simulation in the GPU.
+[ ] Implement wind forces.  
+[ ] Fix wobbly behaviour.  
+[ ] Run simulation in the GPU.  
